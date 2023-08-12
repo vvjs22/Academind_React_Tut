@@ -28,5 +28,6 @@ const App = () => {
     </Layout>
   );
 };
+// Remove gitignore from src folder
 
 export default App;
